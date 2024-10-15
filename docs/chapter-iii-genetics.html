@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>G8 Biology Guidebook</title>
+  <title>4 Chapter III: Genetics | G8 Biology Guidebook</title>
   <meta name="description" content="This GitBook is an example of a GitBook for teaching. It can be adapted for specific courses. The output format for this example is bookdown::gitbook." />
   <meta name="generator" content="bookdown 0.40 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="G8 Biology Guidebook" />
+  <meta property="og:title" content="4 Chapter III: Genetics | G8 Biology Guidebook" />
   <meta property="og:type" content="book" />
   
   <meta property="og:description" content="This GitBook is an example of a GitBook for teaching. It can be adapted for specific courses. The output format for this example is bookdown::gitbook." />
   <meta name="github-repo" content="Pagius5/G8-Biology" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="G8 Biology Guidebook" />
+  <meta name="twitter:title" content="4 Chapter III: Genetics | G8 Biology Guidebook" />
   
   <meta name="twitter:description" content="This GitBook is an example of a GitBook for teaching. It can be adapted for specific courses. The output format for this example is bookdown::gitbook." />
   
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
+<link rel="prev" href="chapter-ii-reproduction-of-organisms.html"/>
 
-<link rel="next" href="chapter-i-from-a-cell-to-an-organism.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -188,28 +188,49 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">G8 Biology Guidebook</h1>
-<p class="author"><em><a href="https://pagius5.github.io/">Page Tsien</a></em></p>
-<p class="date"><em>2024-10-16</em></p>
+<div id="chapter-iii-genetics" class="section level1 hasAnchor" number="4">
+<h1><span class="header-section-number">4</span> Chapter III: Genetics<a href="chapter-iii-genetics.html#chapter-iii-genetics" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="lecture-9-mendel-and-his-peas-1" class="section level2 hasAnchor" number="4.1">
+<h2><span class="header-section-number">4.1</span> Lecture 9: Mendel And His Peas-1<a href="chapter-iii-genetics.html#lecture-9-mendel-and-his-peas-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 </div>
-<div id="overview" class="section level1 hasAnchor" number="1">
-<h1><span class="header-section-number">1</span> Overview<a href="index.html#overview" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p><img src="img/using_gitbook.jpeg" /></p>
-<p>A <em>GitBook</em> is a useful tool for creating (open?) educational resources. It is an online “book” format, that can be hosted directly from a GitHub repository. You are currently reading a GitBook designed to help you get started creating your own educational GitBooks for your courses (how meta!). It does this in two ways: By explaining how to create GitBooks, and by serving as a template that you can copy and edit, instead of having to start from scratch. This template GitBook has all the settings that I consider to be useful for educational GitBooks, but you can always customize it.</p>
-<p>I will focus specifically on GitBooks that are made in <a href="https://rstudio.com">Rstudio</a>, using the <a href="https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf"><code>rmarkdown</code> markup language</a>, rendered using the <a href="https://bookdown.org/yihui/bookdown/get-started.html"><code>bookdown</code> package</a>, and hosted on <a href="https://github.com/">GitHub</a>. If you want to get started, skip ahead to Chapter <a href="#prerequisites"><strong>??</strong></a>; if you need more convincing, keep reading below.</p>
-<div id="orientation" class="section level2 hasAnchor" number="1.1">
-<h2><span class="header-section-number">1.1</span> Orientation<a href="index.html#orientation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p><strong>To spead the workload</strong></p>
-<p>My challenge was that I had to translate all tutorial instructions from proprietary software to R, and there was not enough time to complete this task before the course commenced. By making the tutorial instructions available in <a href="https://cjvanlissa.github.io/TCSM/">this GitBook</a>, I was able to continue translating tutorial instructions <em>while the semester was ongoing</em>, and push updates to GitHub in time for each session, which were immediately available to all students. The parallel with the current situation is that some courses are now forced to start teaching in an online format, without having enough time to completely prepare. By using a GitBook, you can spread out the workload of preparing your materials across the semester. <a href="https://cjvanlissa.github.io/TCSM/">This is the finished GitBook</a></p>
-<p><strong>To contribute or use existing Open Educational Resources</strong></p>
-<p>Another key advantage of using a GitBook is, that you can easily make your course materials available for others to use under an open access license, or perhaps you can use an existing GitBook from the internet and adapt it for your own uses. GitBooks can be easily duplicated and adapted, just like any other project hosted on GitHub. Contributing Open Educational Materials can help reduce the workload on teachers around the world, and can improve the quality of the materials used thanks to online collaborating and feedback.</p>
-<p><strong>To benefit from formatting advantages</strong></p>
-<p>GitBooks also have two formatting advantages over classic PDF or Word files. First, they are Rmarkdown files, and can thus include blocks of R (<a href="https://rstudio.github.io/reticulate/articles/r_markdown.html">or Python</a>) code that can be evaluated, and whose results are rendered to the file. Second, they are interactive web pages, and as such, can have dynamic features (such as answers to assignments that can be hidden, or boxes where students can fill out an answer to be checked). Additionally, other web pages or interactive apps can be embedded within the page. So whereas a traditional document is static, GitBooks can be interactive.</p>
-<p><strong>How do GitBooks work?</strong></p>
-<p>GitBooks consist of an Rstudio project, with several Rmarkdown files containing the chapters of the book. Inside Rstudio, users can press a “Build Book” button, which renders all of these chapters to a nicely formatted HTML book (and a PDF file for users to download). Users can push the finished book to a GitHub repository, and indicate on GitHub that the book should be hosted on GitHub pages. Voilà!</p>
-<p><strong>Getting started</strong></p>
-<p>If you are convinced that this tool might benefit your teaching, your first point of action is to prepare your system for creating GitBooks (Chapter <a href="#prerequisites"><strong>??</strong></a>). After that, you can get a copy of this GitBook as a template (Chapter <a href="#getgitbook"><strong>??</strong></a>). Then, you can start tweaking it for your own course!</p>
+<div id="lecture-10-mendel-and-his-peas-2" class="section level2 hasAnchor" number="4.2">
+<h2><span class="header-section-number">4.2</span> Lecture 10: Mendel And His Peas-2<a href="chapter-iii-genetics.html#lecture-10-mendel-and-his-peas-2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+</div>
+<div id="lecture-11-understanding-inheritance-1" class="section level2 hasAnchor" number="4.3">
+<h2><span class="header-section-number">4.3</span> Lecture 11: Understanding Inheritance-1<a href="chapter-iii-genetics.html#lecture-11-understanding-inheritance-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The contents of the book are written in <strong>RMarkdown</strong>. You can use any formatting code that Pandoc’s Markdown supports, e.g., a math equation <span class="math inline">\(a^2 + b^2 = c^2\)</span>. Moreover, you can include chunks of R-code, like this:</p>
+<pre><code>```{r}
+print("This is an R-command!")
+```</code></pre>
+<p>The results of these chunks can be rendered to the GitBook:</p>
+<pre><code>## [1] &quot;This is an R-command!&quot;</code></pre>
+<p>To edit the book, you can change the text in the <code>.Rmd</code> files. Each Rmd file should contain <strong>one and only one</strong> chapter. A chapter is defined by the first-level heading <code>#</code>, e.g., <code># Editing the book</code>.</p>
+<p>Any sub-headings within the chapter are indicated with several <code>#</code> signs, e.g., <code>##</code> (level 2) and <code>###</code> (level 3).</p>
+<!-- ## Creating new chapters -->
+<p>To create a new chapter, you must follow two steps: 1) Create the file, and 2) Include it in the list of chapters.</p>
+<p>First, to create the file for a new chapter in Rstudio, click <code>File &gt; New File &gt; Text file</code>. At the top of the file, write your chapter heading, as explained above. Then, click <code>File &gt; Save</code>. Save the file as <code>.Rmd</code>, without spaces in the file name, e.g.: <code>editing_the_book.Rmd</code>.</p>
+<p>Second, to include it in the list of chapters, open the file <code>_bookdown.yml</code> (click it in the Files explorer in the bottom right of Rstudio). This file has a list of <code>.Rmd</code> files to be included in the book. In this example, the list looks like this:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="chapter-iii-genetics.html#cb3-1" tabindex="-1"></a>tmp <span class="ot">&lt;-</span> <span class="fu">readLines</span>(<span class="st">&quot;_bookdown.yml&quot;</span>)</span>
+<span id="cb3-2"><a href="chapter-iii-genetics.html#cb3-2" tabindex="-1"></a><span class="fu">cat</span>(tmp[<span class="fu">grep</span>(<span class="st">&quot;^rmd_files&quot;</span>, tmp)<span class="sc">:</span><span class="fu">grep</span>(<span class="st">&quot;references</span><span class="sc">\\</span><span class="st">.Rmd&quot;</span>, tmp)], <span class="at">sep =</span> <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<p>rmd_files: [“index.Rmd”,
+“chapter-1.Rmd”,
+“chapter-2.Rmd”,
+“chapter-3.Rmd”]
+# rmd_files: [“index.Rmd”,
+# “chapter-1.Rmd”,
+# “chapter-2.Rmd”,
+# “chapter-3.Rmd”,
+# “figures_tables.Rmd”,
+# “examples.Rmd”,
+# “open_educational.Rmd”,
+# “use_in_course.Rmd”,
+# “licenses.Rmd”,
+# “references.Rmd”]</p>
+<p>Insert the file name of your new chapter in the desired position in this list.</p>
+<!-- ## Linking across chapters -->
+<p>You can label chapter and section titles using <code>{#label}</code> after them. The labels can be used as cross-references. For example, we can link to Chapter <a href="#figtab"><strong>??</strong></a>. If you do not manually label chapters, there will be automatic labels anyway, e.g., Chapter <a href="#examples"><strong>??</strong></a>.</p>
+<!-- ## Advanced editing -->
+<p>The convenient <a href="https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf">Rmarkdown Cheat Sheet</a> by Rstudio covers most of the knowledge required for advanced Rmarkdown editing. You can print it out and stick it to your wall!</p>
 
 </div>
 </div>
@@ -218,8 +239,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           </div>
         </div>
       </div>
+<a href="chapter-ii-reproduction-of-organisms.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 
-<a href="chapter-i-from-a-cell-to-an-organism.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -250,7 +271,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/cjvanlissa/gitbook-demo/edit/master/index.Rmd",
+"link": "https://github.com/cjvanlissa/gitbook-demo/edit/master/chapter-3.Rmd",
 "text": "Edit"
 },
 "history": {

@@ -1,4 +1,18 @@
-# Prerequisites
+# Chapter I: From A Cell To An Organism
+
+## Lecture 1: Cell Cycle
+
+## Lecture 2: Cell Division
+
+## Lecture 3: Levels of Organization
+
+## Experiment 1: Observing Mitosis In Plant Cells
+
+## Experiment 2: Cell Differentiation
+
+## Project 1: Mitosis & The Cell Cycle
+
+## Project 2: Biological Organization
 
 This GitBook is created in Rstudio, using the `bookdown` package. To get your system set up correctly, you have to install several software packages, and register on GitHub. You only have to perform these steps once, and the entire process should take approximately 1 hour if you start from scratch. In case some software is already installed on your system, you can skip related steps. Follow these steps in order:
 

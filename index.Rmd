@@ -1,12 +1,12 @@
 --- 
-title: "A GitBook Example for Teaching"
-author: "[dr. Caspar J. van Lissa](https://www.uu.nl/staff/CJvanLissa)"
+title: "G8 Biology Guidebook"
+author: "[Page Tsien](https://pagius5.github.io/)"
 date: "`r Sys.Date()`"
 description: This GitBook is an example of a GitBook for teaching. It can be 
   adapted for specific courses. The output format for this example
   is bookdown::gitbook.
 documentclass: book
-github-repo: cjvanlissa/gitbook-demo
+github-repo: Pagius5/G8-Biology
 link-citations: yes
 bibliography:
 - book.bib
@@ -16,7 +16,7 @@ biblio-style: apalike
 ---
 
 <!--"Using GitBooks to create Open course materials"-->
-# About GitBooks
+# Overview
 
 ![](./img/using_gitbook.jpeg)
 
@@ -24,7 +24,7 @@ A *GitBook* is a useful tool for creating (open?) educational resources. It is a
 
 I will focus specifically on GitBooks that are made in [Rstudio](https://rstudio.com), using the [`rmarkdown` markup language](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf), rendered using the [`bookdown` package](https://bookdown.org/yihui/bookdown/get-started.html), and hosted on [GitHub](https://github.com/). If you want to get started, skip ahead to Chapter \@ref(prerequisites); if you need more convincing, keep reading below.
 
-## Why use a GitBook for teaching?
+## Orientation
 
 **To spead the workload**
 
@@ -45,3 +45,4 @@ GitBooks consist of an Rstudio project, with several Rmarkdown files containing 
 **Getting started**
   
 If you are convinced that this tool might benefit your teaching, your first point of action is to prepare your system for creating GitBooks (Chapter \@ref(prerequisites)). After that, you can get a copy of this GitBook as a template (Chapter \@ref(getgitbook)). Then, you can start tweaking it for your own course!
+
