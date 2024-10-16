@@ -1,5 +1,11 @@
 ## Lecture 7: Meiosis-3
+
+![](./img/meiosis1.png)
+
 Lesson outline
+
+
+
 F. How do mitosis and meiosis differ? 
 1. During mitosis and cell division, a body cell and its nucleus divide once and produce two 
 identical cells. 
