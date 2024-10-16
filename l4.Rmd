@@ -1,0 +1,31 @@
+## Lecture 4: Sexual Reproduction
+
+![](./img/L5.png)
+
+
+
+### Lesson outline
+
+**A. What is sexual reproduction?**  
+1. <u>Sexual reproduction</u> produces an offspring when genetic materials from two 
+different sex cells combine.  
+a. The female sex cell, a(n) <u>egg</u>, forms in an ovary.  
+b. The male sex cell, a(n) <u>sperm</u>, forms in a testis.   
+2. During a process called <u>fertilization</u>, an egg cell and a sperm cell join together. The 
+new cell that forms is called a(n) <u>zygote</u>.  
+
+**B. Diploid Cells**  
+1. Organisms that reproduce sexually make two kinds of cells—<u>body</u> cells and sex cells.  
+2. Body cells are <u>diploid</u>; they have pairs of chromosomes.  
+3. If a zygote has too many or too few <u>chromosomes</u>, it will not develop properly.  
+4. Different organisms have different <u>numbers</u> of chromosomes.  
+5. <u>Homologous chromosomes</u> are pairs of chromosomes that have genes for the same traits arranged in the same order.  
+
+**C. Haploid Cells**  
+1. Sex cells are <u>haploid</u>; they have only one chromosome from each pair of chromosomes.  
+2. In <u>meiosis</u>, one diploid cell divides and makes four haploid cells.  
+
+### Homework
+\begin{equation*} 
+\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x)
+\end{equation*} 

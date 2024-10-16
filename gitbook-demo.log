@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.15)  16 OCT 2024 02:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.15)  17 OCT 2024 01:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,11 +456,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] (./gitbook-demo.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 2.
+(Font)              <10> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 2.
+(Font)              <5> on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `gitbook-demo.toc'.
@@ -473,7 +473,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 Chapter 1.
-<./img/using_gitbook.jpeg, id=70, 505.89pt x 337.26pt>
+<./img/using_gitbook.jpeg, id=60, 505.89pt x 337.26pt>
 File: ./img/using_gitbook.jpeg Graphic file (type jpg)
 <use ./img/using_gitbook.jpeg>
 Package pdftex.def Info: ./img/using_gitbook.jpeg  used on input line 142.
@@ -489,14 +489,14 @@ LaTeX Warning: Reference `prerequisites' on page 5 undefined on input line 146.
 
 [5 <./img/using_gitbook.jpeg>]
 
+LaTeX Warning: Reference `prerequisites' on page 6 undefined on input line 166.
+
+
+LaTeX Warning: Reference `getgitbook' on page 6 undefined on input line 166.
+
+
+
 [6]
-
-LaTeX Warning: Reference `prerequisites' on page 7 undefined on input line 169.
-
-
-LaTeX Warning: Reference `getgitbook' on page 7 undefined on input line 169.
-
-
 
 [7]
 
@@ -507,43 +507,14 @@ Chapter 2.
 
 
 [9]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 210.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 207.
 (/Users/page_tsien/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 210--212
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--218
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
-
- []
-
-
 
 [10{/Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 265--267
-
- []
-
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 275.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 272.
 
 
 [11]
@@ -552,110 +523,90 @@ LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
 
 ]
 Chapter 3.
-<./img/settings.png, id=156, 740.0147pt x 120.45pt>
+<./img/L5.png, id=144, 964.5636pt x 542.025pt>
+File: ./img/L5.png Graphic file (type png)
+<use ./img/L5.png>
+Package pdftex.def Info: ./img/L5.png  used on input line 287.
+(pdftex.def)             Requested size: 345.00548pt x 193.8717pt.
+
+
+[13 <./img/L5.png>]
+
+[14{/Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
+<./img/settings.png, id=170, 740.0147pt x 120.45pt>
 File: ./img/settings.png Graphic file (type png)
 <use ./img/settings.png>
-Package pdftex.def Info: ./img/settings.png  used on input line 312.
+Package pdftex.def Info: ./img/settings.png  used on input line 387.
 (pdftex.def)             Requested size: 319.9955pt x 52.0847pt.
-<./img/new_repo.png, id=157, 193.47281pt x 232.61906pt>
+<./img/new_repo.png, id=171, 193.47281pt x 232.61906pt>
 File: ./img/new_repo.png Graphic file (type png)
 <use ./img/new_repo.png>
-Package pdftex.def Info: ./img/new_repo.png  used on input line 317.
+Package pdftex.def Info: ./img/new_repo.png  used on input line 392.
 (pdftex.def)             Requested size: 193.47528pt x 232.62202pt.
 
 
-[13 <./img/settings.png>]
-<./img/from_template.png, id=171, 532.23843pt x 448.67625pt>
+[15 <./img/settings.png>]
+<./img/from_template.png, id=182, 532.23843pt x 448.67625pt>
 File: ./img/from_template.png Graphic file (type png)
 <use ./img/from_template.png>
-Package pdftex.def Info: ./img/from_template.png  used on input line 320.
+Package pdftex.def Info: ./img/from_template.png  used on input line 395.
 (pdftex.def)             Requested size: 320.00334pt x 269.76237pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[14 <./img/new_repo.png>]
-<./img/new_project.png, id=178, 444.91219pt x 315.42844pt>
+<./img/new_project.png, id=183, 444.91219pt x 315.42844pt>
 File: ./img/new_project.png Graphic file (type png)
 <use ./img/new_project.png>
-Package pdftex.def Info: ./img/new_project.png  used on input line 323.
+Package pdftex.def Info: ./img/new_project.png  used on input line 398.
 (pdftex.def)             Requested size: 319.99707pt x 226.86765pt.
-<./img/new_git_project.png, id=179, 444.91219pt x 314.67563pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[16 <./img/new_repo.png> <./img/from_template.png>]
+<./img/new_git_project.png, id=189, 444.91219pt x 314.67563pt>
 File: ./img/new_git_project.png Graphic file (type png)
 <use ./img/new_git_project.png>
-Package pdftex.def Info: ./img/new_git_project.png  used on input line 326.
+Package pdftex.def Info: ./img/new_git_project.png  used on input line 401.
 (pdftex.def)             Requested size: 319.99707pt x 226.32619pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[15 <./img/from_template.png> <./img/new_project.png>]
-<./img/files_editor.png, id=185, 663.22781pt x 188.95593pt>
+<./img/files_editor.png, id=190, 663.22781pt x 188.95593pt>
 File: ./img/files_editor.png Graphic file (type png)
 <use ./img/files_editor.png>
-Package pdftex.def Info: ./img/files_editor.png  used on input line 329.
+Package pdftex.def Info: ./img/files_editor.png  used on input line 404.
 (pdftex.def)             Requested size: 319.9953pt x 91.16777pt.
-<./img/commit_push.png, id=186, 754.31813pt x 459.96844pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[17 <./img/new_project.png> <./img/new_git_project.png>]
+<./img/commit_push.png, id=198, 754.31813pt x 459.96844pt>
 File: ./img/commit_push.png Graphic file (type png)
 <use ./img/commit_push.png>
-Package pdftex.def Info: ./img/commit_push.png  used on input line 332.
+Package pdftex.def Info: ./img/commit_push.png  used on input line 407.
 (pdftex.def)             Requested size: 319.99971pt x 195.12956pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[16 <./img/new_git_project.png> <./img/files_editor.png>]
-<./img/build_book.png, id=194, 661.72218pt x 274.02374pt>
+<./img/build_book.png, id=199, 661.72218pt x 274.02374pt>
 File: ./img/build_book.png Graphic file (type png)
 <use ./img/build_book.png>
-Package pdftex.def Info: ./img/build_book.png  used on input line 335.
+Package pdftex.def Info: ./img/build_book.png  used on input line 410.
 (pdftex.def)             Requested size: 319.99585pt x 132.5125pt.
-File: ./img/settings.png Graphic file (type png)
-<use ./img/settings.png>
-Package pdftex.def Info: ./img/settings.png  used on input line 340.
-(pdftex.def)             Requested size: 319.9955pt x 52.0847pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[17 <./img/commit_push.png> <./img/build_book.png>]
-<./img/pages_published.png, id=202, 552.56438pt x 183.68625pt>
+[18 <./img/files_editor.png> <./img/commit_push.png>]
+File: ./img/settings.png Graphic file (type png)
+<use ./img/settings.png>
+Package pdftex.def Info: ./img/settings.png  used on input line 415.
+(pdftex.def)             Requested size: 319.9955pt x 52.0847pt.
+<./img/pages_published.png, id=206, 552.56438pt x 183.68625pt>
 File: ./img/pages_published.png Graphic file (type png)
 <use ./img/pages_published.png>
-Package pdftex.def Info: ./img/pages_published.png  used on input line 343.
+Package pdftex.def Info: ./img/pages_published.png  used on input line 418.
 (pdftex.def)             Requested size: 319.99854pt x 106.37552pt.
-
-
-[18 <./img/pages_published.png>]
-Chapter 4.
-
-
-[19
-
-{/Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
-Underfull \hbox (badness 2573) in paragraph at lines 383--397
-[]\T1/lmr/m/n/10 rmd_files: [``in-dex.Rmd'', ``chapter-1.Rmd'', ``chapter-2.Rmd'', ``chapter-
- []
-
-
-Underfull \hbox (badness 4752) in paragraph at lines 383--397
-\T1/lmr/m/n/10 # ``chapter-3.Rmd'', # ``fig-ures_tables.Rmd'', # ``ex-am-ples.Rmd'', #
- []
-
-
-LaTeX Warning: Reference `figtab' on page 20 undefined on input line 400.
-
-
-LaTeX Warning: Reference `examples' on page 20 undefined on input line 400.
-
 No file gitbook-demo.bbl.
 
 
-[20] (./gitbook-demo.aux)
+[19 <./img/build_book.png> <./img/pages_published.png>] (./gitbook-demo.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -665,18 +616,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 12129 strings out of 475539
- 187275 string characters out of 5776664
- 579242 words of memory out of 5000000
- 34482 multiletter control sequences out of 15000+600000
- 621435 words of font info for 83 fonts, out of 8000000 for 9000
+ 12123 strings out of 475539
+ 187171 string characters out of 5776664
+ 580112 words of memory out of 5000000
+ 34480 multiletter control sequences out of 15000+600000
+ 624433 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  89i,6n,93p,860b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on gitbook-demo.pdf (20 pages, 566520 bytes).
+</Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></Users/page_tsien/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on gitbook-demo.pdf (19 pages, 5873486 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 304 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 342 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

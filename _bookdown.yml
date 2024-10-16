@@ -1,8 +1,24 @@
 book_filename: "gitbook-demo"
+# rmd_files: ["index.Rmd",
+#             "chapter-1.Rmd",
+#             "chapter-2.Rmd",
+#             "chapter-3.Rmd"]
+
 rmd_files: ["index.Rmd",
-            "chapter-1.Rmd",
-            "chapter-2.Rmd",
-            "chapter-3.Rmd"]
+            "ch1.Rmd",
+            "l1.Rmd",
+            "l2.Rmd",
+            "l3.Rmd",
+            "exp1.Rmd",
+            "exp2.Rmd",
+            "p1.Rmd",
+            "p2.Rmd",
+            "ch2.Rmd",
+            "l4.Rmd",
+            "l5.Rmd",
+            "l6.Rmd",
+            "l7.Rmd",
+            "l8.Rmd"]
 # rmd_files: ["index.Rmd",
 #             "chapter-1.Rmd",
 #             "chapter-2.Rmd",

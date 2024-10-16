@@ -127,7 +127,7 @@
 
 \title{G8 Biology Guidebook}
 \author{\href{https://pagius5.github.io/}{Page Tsien}}
-\date{2024-10-16}
+\date{2024-10-17}
 
 \begin{document}
 \maketitle
@@ -144,9 +144,6 @@
 A \emph{GitBook} is a useful tool for creating (open?) educational resources. It is an online ``book'' format, that can be hosted directly from a GitHub repository. You are currently reading a GitBook designed to help you get started creating your own educational GitBooks for your courses (how meta!). It does this in two ways: By explaining how to create GitBooks, and by serving as a template that you can copy and edit, instead of having to start from scratch. This template GitBook has all the settings that I consider to be useful for educational GitBooks, but you can always customize it.
 
 I will focus specifically on GitBooks that are made in \href{https://rstudio.com}{Rstudio}, using the \href{https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf}{\texttt{rmarkdown} markup language}, rendered using the \href{https://bookdown.org/yihui/bookdown/get-started.html}{\texttt{bookdown} package}, and hosted on \href{https://github.com/}{GitHub}. If you want to get started, skip ahead to Chapter \ref{prerequisites}; if you need more convincing, keep reading below.
-
-\hypertarget{orientation}{%
-\section{Orientation}\label{orientation}}
 
 \textbf{To spead the workload}
 
@@ -207,13 +204,13 @@ This GitBook is created in Rstudio, using the \texttt{bookdown} package. To get 
   \begin{itemize}
   \tightlist
   \item
-    Git from the command line and also from third party software\\
+    Git from the command line and also from third party software
   \item
-    Use the OpenSSL library\\
+    Use the OpenSSL library
   \item
-    Checkout Windows-style, commit Unix-style line endings\\
+    Checkout Windows-style, commit Unix-style line endings
   \item
-    Enable Git Credential Manager\\
+    Enable Git Credential Manager
   \item
     If you run into any trouble, a more comprehensive tutorial on installing Git is available at \href{https://happygitwithr.com/install-git.html}{happygitwithr.com}.
   \end{itemize}
@@ -260,9 +257,9 @@ This GitBook is created in Rstudio, using the \texttt{bookdown} package. To get 
   \begin{itemize}
   \tightlist
   \item
-    If you receive any error saying \emph{There is no package called XYZ}, then run the code \texttt{install.packages("XYZ")}\\
+    If you receive any error saying \emph{There is no package called XYZ}, then run the code \texttt{install.packages("XYZ")}
   \item
-    If you are prompted to update packages, just press \texttt{3:\ None}. Updating packages this way in an interactive session sometimes leads to errors, if the packages are loaded.\\
+    If you are prompted to update packages, just press \texttt{3:\ None}. Updating packages this way in an interactive session sometimes leads to errors, if the packages are loaded.
   \item
     If you see a pop-up dialog asking \emph{Do you want to install from sources the package which needs compilation?}, click \emph{No}. If this leads to errors, then please follow \emph{Step 3} from \href{https://cjvanlissa.github.io/worcs/articles/setup.html}{this online guide}, and run \texttt{install.packages("devtools")}. This will take a long time, but will allow you to install packages from source.
   \end{itemize}
@@ -287,14 +284,92 @@ That's it! Everything should be installed and connected now.
 \hypertarget{lecture-4-sexual-reproduction}{%
 \section{Lecture 4: Sexual Reproduction}\label{lecture-4-sexual-reproduction}}
 
+\includegraphics{./img/L5.png}
+
+\hypertarget{lesson-outline}{%
+\subsection{Lesson outline}\label{lesson-outline}}
+
+\textbf{A. What is sexual reproduction?}\\
+1. Sexual reproduction produces an offspring when genetic materials from two
+different sex cells combine.\\
+a. The female sex cell, a(n) egg, forms in an ovary.\\
+b. The male sex cell, a(n) sperm, forms in a testis.\\
+2. During a process called fertilization, an egg cell and a sperm cell join together. The
+new cell that forms is called a(n) zygote.
+
+\textbf{B. Diploid Cells}\\
+1. Organisms that reproduce sexually make two kinds of cells---body cells and sex cells.\\
+2. Body cells are diploid; they have pairs of chromosomes.\\
+3. If a zygote has too many or too few chromosomes, it will not develop properly.\\
+4. Different organisms have different numbers of chromosomes.\\
+5. Homologous chromosomes are pairs of chromosomes that have genes for the same traits arranged in the same order.
+
+\textbf{C. Haploid Cells}\\
+1. Sex cells are haploid; they have only one chromosome from each pair of chromosomes.\\
+2. In meiosis, one diploid cell divides and makes four haploid cells.
+
+\hypertarget{homework}{%
+\subsection{Homework}\label{homework}}
+
+\begin{equation*} 
+\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x)
+\end{equation*}
+
 \hypertarget{lecture-5-meiosis-1}{%
 \section{Lecture 5: Meiosis-1}\label{lecture-5-meiosis-1}}
+
+\hypertarget{lesson-outline-1}{%
+\subsection{Lesson outline}\label{lesson-outline-1}}
+
+\textbf{D. The Phases of Meiosis}\\
+1. Meiosis involves two divisions of the nucleus and the cytoplasm. These divisions, known as meiosis I and meiosis II, result in four haploid cells.\\
+2. During interphase, the reproductive cell grows and duplicates its chromosomes.\\
+3. During meiosis I, each pair of duplicated homologous chromosomes separates.\\
+4. After meiosis I, the two cells formed during this stage go through a second division of the nucleus and cytoplasm called meiosis II. During meiosis II, sister chromatids separate to produce four haploid cells.
+
+\textbf{E. Why is meiosis important?}\\
+1. Meiosis forms sex cells with the correct haploid number of chromosomes. This maintains the correct diploid number of chromosomes in organisms when sex cells join. Meiosis creates genetic variation by producing haploid cells.
 
 \hypertarget{lecture-6-meiosis-2}{%
 \section{Lecture 6: Meiosis-2}\label{lecture-6-meiosis-2}}
 
+Lesson outline
+1. interphase
+2. Homologous chromosomes
+3. breaks
+4. middle
+5. Spindle
+6. homologous
+7. Sister chromatids
+8. two
+9. Sister chromatids
+10. Chromosomes; Nuclear membrane
+11. align
+12. pulled apart; opposite ends of the cells
+13. chromosomes
+14. four
+15. half
+
 \hypertarget{lecture-7-meiosis-3}{%
 \section{Lecture 7: Meiosis-3}\label{lecture-7-meiosis-3}}
+
+Lesson outline
+F. How do mitosis and meiosis differ?
+1. During mitosis and cell division, a body cell and its nucleus divide once and produce two
+identical cells.
+2. During meiosis, a reproductive cell and its nucleus divide twice and produce four cells----two
+pairs of identical haploid cells.
+G. Advantages of Sexual Reproduction
+1. Sexual reproduction produces offspring that have a new combination of DNA. This results in
+genetic variation among individuals.
+2. Genetic variation gives individuals within a population slight differences that might be an
+advantage if the environment changes.
+3. Selective breeding has been used to develop desirable traits in plants and animals.
+H. Disadvantages of Sexual Reproduction
+1. One disadvantage of sexual reproduction is that organisms have to grow and develop until
+they are mature enough to produce sex cells.
+2. Another disadvantage is that searching for a mate takes time and energy and might expose
+individuals to predators, diseases, or harsh environmental conditions.
 
 \hypertarget{lecture-8-asexual-reproduction}{%
 \section{Lecture 8: Asexual Reproduction}\label{lecture-8-asexual-reproduction}}
@@ -342,64 +417,6 @@ To get your GitBook, you should follow these steps:
   On the Settings page, scroll all the way down until you reach a section called \texttt{GitHub\ Pages}. There, under the ``Source'' heading, click the word \texttt{None}, and select \texttt{master\ branch\ /docs\ folder}. When you select it, the page will update, and if you scroll back down to the \texttt{GitHub\ Pages} section, you will see the URL where your GitBook is published. The first time, it will take a few minutes for your GitBook to come online. When you publish updates to the GitBook however (simply by following \emph{Step 11} again), the update will be near-instantaneous. The Pages section should now look like this (and that is hopefully the link where you found this book):\\
   \includegraphics{./img/pages_published.png}
 \end{enumerate}
-
-\hypertarget{chapter-iii-genetics}{%
-\chapter{Chapter III: Genetics}\label{chapter-iii-genetics}}
-
-\hypertarget{lecture-9-mendel-and-his-peas-1}{%
-\section{Lecture 9: Mendel And His Peas-1}\label{lecture-9-mendel-and-his-peas-1}}
-
-\hypertarget{lecture-10-mendel-and-his-peas-2}{%
-\section{Lecture 10: Mendel And His Peas-2}\label{lecture-10-mendel-and-his-peas-2}}
-
-\hypertarget{lecture-11-understanding-inheritance-1}{%
-\section{Lecture 11: Understanding Inheritance-1}\label{lecture-11-understanding-inheritance-1}}
-
-The contents of the book are written in \textbf{RMarkdown}. You can use any formatting code that Pandoc's Markdown supports, e.g., a math equation \(a^2 + b^2 = c^2\). Moreover, you can include chunks of R-code, like this:
-
-The results of these chunks can be rendered to the GitBook:
-
-\begin{verbatim}
-## [1] "This is an R-command!"
-\end{verbatim}
-
-To edit the book, you can change the text in the \texttt{.Rmd} files. Each Rmd file should contain \textbf{one and only one} chapter. A chapter is defined by the first-level heading \texttt{\#}, e.g., \texttt{\#\ Editing\ the\ book}.
-
-Any sub-headings within the chapter are indicated with several \texttt{\#} signs, e.g., \texttt{\#\#} (level 2) and \texttt{\#\#\#} (level 3).
-
-To create a new chapter, you must follow two steps: 1) Create the file, and 2) Include it in the list of chapters.
-
-First, to create the file for a new chapter in Rstudio, click \texttt{File\ \textgreater{}\ New\ File\ \textgreater{}\ Text\ file}. At the top of the file, write your chapter heading, as explained above. Then, click \texttt{File\ \textgreater{}\ Save}. Save the file as \texttt{.Rmd}, without spaces in the file name, e.g.: \texttt{editing\_the\_book.Rmd}.
-
-Second, to include it in the list of chapters, open the file \texttt{\_bookdown.yml} (click it in the Files explorer in the bottom right of Rstudio). This file has a list of \texttt{.Rmd} files to be included in the book. In this example, the list looks like this:
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{tmp }\OtherTok{\textless{}{-}} \FunctionTok{readLines}\NormalTok{(}\StringTok{"\_bookdown.yml"}\NormalTok{)}
-\FunctionTok{cat}\NormalTok{(tmp[}\FunctionTok{grep}\NormalTok{(}\StringTok{"\^{}rmd\_files"}\NormalTok{, tmp)}\SpecialCharTok{:}\FunctionTok{grep}\NormalTok{(}\StringTok{"references}\SpecialCharTok{\textbackslash{}\textbackslash{}}\StringTok{.Rmd"}\NormalTok{, tmp)], }\AttributeTok{sep =} \StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
-
-rmd\_files: {[}``index.Rmd'',
-``chapter-1.Rmd'',
-``chapter-2.Rmd'',
-``chapter-3.Rmd''{]}
-\# rmd\_files: {[}``index.Rmd'',
-\# ``chapter-1.Rmd'',
-\# ``chapter-2.Rmd'',
-\# ``chapter-3.Rmd'',
-\# ``figures\_tables.Rmd'',
-\# ``examples.Rmd'',
-\# ``open\_educational.Rmd'',
-\# ``use\_in\_course.Rmd'',
-\# ``licenses.Rmd'',
-\# ``references.Rmd''{]}
-
-Insert the file name of your new chapter in the desired position in this list.
-
-You can label chapter and section titles using \texttt{\{\#label\}} after them. The labels can be used as cross-references. For example, we can link to Chapter \ref{figtab}. If you do not manually label chapters, there will be automatic labels anyway, e.g., Chapter \ref{examples}.
-
-The convenient \href{https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf}{Rmarkdown Cheat Sheet} by Rstudio covers most of the knowledge required for advanced Rmarkdown editing. You can print it out and stick it to your wall!
 
   \bibliography{book.bib,packages.bib}
 
