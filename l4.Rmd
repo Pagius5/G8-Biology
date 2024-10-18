@@ -1,31 +1,85 @@
 ## Lecture 4: Sexual Reproduction
 
-![](./img/L5.png)
+<div style="width: 80%; margin-left: auto; margin-right: auto">
+![](./img/sperm-egg-meme.png)
+</div>
 
+### Keywords
 
+<!-- <style> -->
+<!-- table th:first-of-type { -->
+<!--     width: 20%; -->
+<!-- } -->
+<!-- table th:nth-of-type(2) { -->
+<!--     width: 30%; -->
+<!-- } -->
+<!-- table th:nth-of-type(3) { -->
+<!--     width: 50%; -->
+<!-- } -->
+<!-- </style> -->
+
+<div style="width: 50%; margin-left: auto; margin-right: auto">
+| 英文                  | 中文       |
+| :-------------: | :--------: |
+| Sexual Reproduction    | 有性生殖   |
+| Meiosis                | 减数分裂   |
+| Sperm                  | 精子       |
+| Egg                    | 卵子       |
+| Fertilization          | 受精       |
+| Zygote                 | 受精卵     |
+| Haploid                | 单倍体     |
+| Diploid                | 二倍体     |
+| Homologous chromosomes | 同源染色体 |
+</div>
 
 ### Lesson outline
 
 **A. What is sexual reproduction?**  
-1. <u>Sexual reproduction</u> produces an offspring when genetic materials from two 
+1. <span style="color:red"><u>Sexual reproduction</u></span> produces an offspring when genetic materials from two 
 different sex cells combine.  
-a. The female sex cell, a(n) <u>egg</u>, forms in an ovary.  
-b. The male sex cell, a(n) <u>sperm</u>, forms in a testis.   
-2. During a process called <u>fertilization</u>, an egg cell and a sperm cell join together. The 
-new cell that forms is called a(n) <u>zygote</u>.  
+a. The female sex cell, a(n) <span style="color:red"><u>egg</u></span>, forms in an ovary.  
+b. The male sex cell, a(n) <span style="color:red"><u>sperm</u></span>, forms in a testis.   
+2. During a process called <span style="color:red"><u>fertilization</u></span>, an egg cell and a sperm cell join together. The 
+new cell that forms is called a(n) <span style="color:red"><u>zygote</u></span>.  
 
 **B. Diploid Cells**  
-1. Organisms that reproduce sexually make two kinds of cells—<u>body</u> cells and sex cells.  
-2. Body cells are <u>diploid</u>; they have pairs of chromosomes.  
-3. If a zygote has too many or too few <u>chromosomes</u>, it will not develop properly.  
-4. Different organisms have different <u>numbers</u> of chromosomes.  
-5. <u>Homologous chromosomes</u> are pairs of chromosomes that have genes for the same traits arranged in the same order.  
+1. Organisms that reproduce sexually make two kinds of cells—<span style="color:red"><u>body</u></span> cells and sex cells.  
+2. Body cells are <span style="color:red"><u>diploid</u></span>; they have pairs of chromosomes.  
+3. If a zygote has too many or too few <span style="color:red"><u>chromosomes</u></span>, it will not develop properly.  
+4. Different organisms have different <span style="color:red"><u>numbers</u></span> of chromosomes.  
+5. <span style="color:red"><u>Homologous chromosomes</u></span> are pairs of chromosomes that have genes for the same traits arranged in the same order.  
 
 **C. Haploid Cells**  
-1. Sex cells are <u>haploid</u>; they have only one chromosome from each pair of chromosomes.  
-2. In <u>meiosis</u>, one diploid cell divides and makes four haploid cells.  
+1. Sex cells are <span style="color:red"><u>haploid</u></span>; they have only one chromosome from each pair of chromosomes.  
+2. In <span style="color:red"><u>meiosis</u></span>, one diploid cell divides and makes four haploid cells.  
 
-### Homework
+### Homework  
+**Matching**  
+1. G  
+2. B  
+3. H  
+4. C  
+5. I  
+6. A  
+7. D  
+8. F  
+9. E  
+
+**Multiple Choice Questions**  
+10. A  
+11. B  
+
+**Short Answer Questions**  
+12. Sexual reproduction is the <span style="color:red">production of an offspring</span> that results <u>when the genetic material from two different cells combine</u>.   
+(Hint: Check "how to write a definition" in extension)  
+13. A zygote is <span style="color:red">a new cell</span> that forms when <u>an egg cell and a sperm cell join during fertilization</u>.   
+(Hint: Check "how to write a definition" in extension)   
+14. A diploid cell has <span style="color:red">pairs of chromosomes</span> and is located in body cells. A haploid cell has only <span style="color:red">one set of chromosomes</span> and is located in sex cells.  
+(Hint: a pair or chromosomes/two sets of chromosomes vs. one chromosome from each pair/one set of chromsomes)
+
+### Extension
+How to write a definition?  
+
 \begin{equation*} 
 \frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x)
 \end{equation*} 
