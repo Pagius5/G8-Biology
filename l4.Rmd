@@ -18,7 +18,7 @@
 <!-- } -->
 <!-- </style> -->
 
-<div style="width: 50%; margin-left: auto; margin-right: auto">
+<div style="width: 70%; margin-left: auto; margin-right: auto">
 | 英文                  | 中文       |
 | :-------------: | :--------: |
 | Sexual Reproduction    | 有性生殖   |
@@ -70,16 +70,34 @@ new cell that forms is called a(n) <span style="color:red"><u>zygote</u></span>.
 11. B  
 
 **Short Answer Questions**  
-12. Sexual reproduction is the <span style="color:red">production of an offspring</span> that results <u>when the genetic material from two different cells combine</u>.   
+12. Sexual reproduction is the <span style="color:red">production of an offspring</span> that results <u>when the genetic material from two different cells combine</u>.  
 (Hint: Check "how to write a definition" in extension)  
-13. A zygote is <span style="color:red">a new cell</span> that forms when <u>an egg cell and a sperm cell join during fertilization</u>.   
-(Hint: Check "how to write a definition" in extension)   
+<span style="color: #ffffff00">s</span>  
+13. A zygote is <span style="color:red">a new cell</span> that forms when <u>an egg cell and a sperm cell join during fertilization</u>.  
+(Hint: Check "how to write a definition" in extension)  
+<span style="color: #ffffff00">s</span>  
 14. A diploid cell has <span style="color:red">pairs of chromosomes</span> and is located in body cells. A haploid cell has only <span style="color:red">one set of chromosomes</span> and is located in sex cells.  
 (Hint: a pair or chromosomes/two sets of chromosomes vs. one chromosome from each pair/one set of chromsomes)
 
-### Extension
-How to write a definition?  
+### Extension  
+<font size=5>**How to write a definition?**</font>  
 
-\begin{equation*} 
-\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x)
-\end{equation*} 
+A formal definition is based upon a concise, logical pattern that includes as much information as it can within a minimum amount of space. The primary reason to include definitions in your writing is to avoid misunderstanding with your audience. A formal definition consists of three parts:
+
+1. The **term** (word or phrase) to be defined  
+2. The **class** of object or concept to which the term belongs  
+3. The **differentiating characteristics** that distinguish it from all others of its class  
+
+For example:  
+
+* Water (term) is a liquid (class) made up of molecules of hydrogen and oxygen in the ratio of 2 to 1 (differentiating characteristics).  
+* Comic books (term) are sequential and narrative publications (class) consisting of illustrations, captions, dialogue balloons, and often focus on super-powered heroes (differentiating characteristics).  
+* Astronomy (term) is a branch of scientific study (class) primarily concerned with celestial objects inside and outside of the earth's atmosphere (differentiating characteristics).  
+
+Sources:  
+1. https://owl.purdue.edu/owl/general_writing/common_writing_assignments/definitions.html    
+2. https://www.sjsu.edu/aanapisi/docs/DefinitonLessonPlanbyEdSams.pdf  
+
+<!-- \begin{equation*}  -->
+<!-- \frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x) -->
+<!-- \end{equation*}  -->
