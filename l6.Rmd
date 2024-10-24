@@ -32,20 +32,26 @@
 **Multiple Choice Questions**  
 1. A  
 2. C  
-3. D  
+3. C  
 4. D  
 
 **Short Answer Questions**  
 (6 points maximum) One point for each of the following:  
 
-* Correct description of meiosis (simply rephrasing the question earns no point)  
-* DNA replicates in interphase  
-* Homologous chromosomes pair in prophase I  
-* Spindles move chromosomes pairs to poles in anaphase I  
-* Two cycles/rounds of division in meiosis  
-* No additional replication before meiosis II  
-* Sister chromatids separate to poles in anaphase II  
-* 1 germ cell yields 4 gametes  
+* <u>Correct description of meiosis</u>  
+Germ cell is a diploid cell, and goes through meiosis to produce gametes, which are haploid cells.  
+* <u>DNA replicates in interphase</u>  
+DNA replicates in interphase, and each chromosome then has a pair of identical sister chromatids.  
+* <u>Homologous chromosomes pair in prophase I</u>  
+* <u>Spindle fibers move chromosomes pairs to poles in anaphase I</u>  
+In the end of meiosis I, two daughter cells are produced, and their chromosomes are halved.  
+  
+* <u>Two cycles/rounds of division in meiosis</u>  
+* <u>No additional replication before meiosis II</u>  
+* <u>Sister chromatids separate to poles in anaphase II</u>  
+Separation of sister chromatids doesn't change the number of chromsomes. The daughter cells are still haploid cells.
+* <u>1 germ cell yields 4 gametes</u>  
+4 gametes, which are haploid cells, are produced in the end of meiosis.  
 
 **Fill in the Blanks**  
 1. Anaphase II  

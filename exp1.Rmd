@@ -1,1 +1,3 @@
 ## Experiment 1: Observing Mitosis In Plant Cells
+
+![](./img/exp-1.jpeg)

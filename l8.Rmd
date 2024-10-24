@@ -1,5 +1,70 @@
 ## Lecture 8: Asexual Reproduction
 
+### Keywords  
+
+<div style="width: 70%; margin-left: auto; margin-right: auto">
+| 英文                     | 中文          |
+| :----------------------: | :-----------: |
+| Asexual reproduction     | 无性生殖      |
+| Fission                  | 裂殖          |
+| Budding                  | 出芽生殖      |
+| Regeneration             | 再生          |
+| vegetative reproduction  | 营养器官繁殖  |
+| Culture medium           | 培养基        |
+| Potential                | 潜能          |
+| Cloning                  | 克隆          |
+</div>
+
+### Lesson outline  
+
+**A. What is asexual reproduction?**  
+1. In <span style="color:red"><u>asexual reproduction</u></span>, one parent organism produces offspring without meiosis and fertilization.  
+2. Because the offspring of asexual reproduction inherit all their DNA from one parent, they are genetically <span style="color:red"><u>identical</u></span> to each other and their parent.  
+
+**B. Types of Asexual Reproduction**  
+1. Cell division in prokaryotes is known as <span style="color:orange"><u>**fission**</u></span>.  
+2. During fission, DNA is <span style="color:red"><u>copied</u></span> and the cell splits to form two identical offspring. The original cell no longer exists.  
+3. Many unicellular <span style="color:red"><u>eukaryotes</u></span> reproduce by <span style="color:orange">**mitotic cell division**</span>. In this type of asexual reproduction, an organism forms two offspring through mitosis and <span style="color:red"><u>cell division</u></span>.  
+4. In <span style="color:orange"><u>**budding**</u></span>, a new organism grows on the body of its parent by mitosis and cell division. When the bud becomes large enough, it can break from the parent and live on its own.  
+5. <span style="color:orange"><u>**Regeneration**</u></span> occurs when an offspring grows from a piece of its parent.  
+    a. Sea stars, sea urchins, sea cucumbers, and planarians can <span style="color:red"><u>reproduce</u></span> through regeneration.  
+    b. Many animals can <span style="color:red"><u>regenerate</u></span> damaged or lost body parts. This is not reproduction; <span style="color:red"><u>new individuals</u></span> are not produced.  
+6. <span style="color:orange"><u>**Vegetative reproduction**</u></span> is a form of asexual reproduction in which offspring grow from a part of a parent plant.  
+7. <span style="color:orange"><u>**Cloning**</u></span> is a type of asexual reproduction developed by scientists and performed in laboratories. It produces <span style="color:red"><u>identical</u></span> individuals from a cell or from a cluster of cells taken from a multicellular organism.  
+8. Using a cloning method called <span style="color:red"><u>tissue culture</u></span>, plant growers and scientists use a meristem to make a copy of a plant with desirable traits.  
+9. Because all of a clone’s <span style="color:red"><u>chromosomes</u></span> come from one parent, the clone is a genetic copy of its parent.  
+10. Asexual reproduction enables organisms to reproduce without a(n) <span style="color:red"><u>mate</u></span>.  
+11. Asexual reproduction also enables some organisms to rapidly produce a large number of <span style="color:red"><u>offspring</u></span>.  
+12. Asexual reproduction produces offspring that are genetically identical to each other and to their parent. This results in little genetic <span style="color:red"><u>variation</u></span> within a population.  
+13. Genetic variation is important because it can increase an organism’s chance of <span style="color:red"><u>surviving</u></span> if the environment changes.  
+14. Genetic changes, called <span style="color:red"><u>mutations</u></span>, can occur and then be passed to offspring; this can affect the offspring’s ability to survive.  
+
+### Homework  
+
+**Matching**  
+1.B  
+2.A  
+3.C  
+4.D  
+5.F  
+6.E  
+
+**Multiple Choice Questions**  
+7.D  
+8.B  
+9.C  
+10.C  
+11.C  
+12.C  
+13.B  
+14.B  
+
+**Enrichment**  
+1. The extreme cold that preserved the woolly mammoths also damaged their cells. 
+Scientists need whole cells to clone an animal.  
+2. Possible answer: Scientists might be able to understand why the animal became 
+extinct. They might also learn more about the animal’s physical characteristics and its behaviors, as well as its environment.  
+
 <!-- To get your GitBook, you should follow these steps: -->
 
 <!-- 1. Go to <https://github.com/cjvanlissa/gitbook-demo> -->
