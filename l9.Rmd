@@ -1,0 +1,45 @@
+## Lecture 9: Mendel and his Peas - 1
+
+### Keywords  
+
+<div style="width: 70%; margin-left: auto; margin-right: auto">
+| 英文              | 中文       |
+| :---------------: | :--------: |
+| Trait             | 性状       |
+| Heredity          | 遗传       |
+| Genetics          | 遗传学     |
+| Self-pollination  | 自花授粉   |
+| Cross-pollination | 异花授粉   |
+| Pistil            | 雌蕊       |
+| Stamen            | 雄蕊       |
+| True-breeding     | 纯种       |
+| Hybrid            | 杂种       |
+</div>
+
+### Lesson outline  
+
+**A. Early Ideas about Heredity**  
+1. <span style="color:red"><u>Heredity</u></span> is the passing of traits from parents to offspring.  
+2. In the 1850s, <span style="color:red"><u>Gregor Mendel</u></span>, an Austrian monk, performed experiments that helped answer questions about how traits are inherited.  
+3. <span style="color:red"><u>Genetics</u></span> is the study of how traits pass from parents to offspring.  
+ 
+**B. Mendel’s Experimental Methods**
+1. Pea plants were ideal for genetic studies because they <span style="color:red"><u>reproduce</u></span> quickly; they have easily observed <span style="color:red"><u>traits</u></span>; and the experimenter can control which pairs of plants <span style="color:red"><u>reproduce</u></span>.  
+2. Mendel controlled which plants <span style="color:red"><u>pollinated</u></span> other plants.  
+&ensp;&ensp;&ensp;&ensp;a. When a(n) <span style="color:red"><u>true-breeding</u></span> plant self-pollinates, it always produces offspring with traits that match the parent.    
+&ensp;&ensp;&ensp;&ensp;b. By <span style="color:red"><u>cross-pollinating</u></span> plants himself, Mendel was able to select which plants pollinated other plants.    
+3. With each cross-pollination Mendel did, he recorded the traits that appeared in the <span style="color:red"><u>offspring</u></span>.    
+
+**C. Mendel’s Results**  
+1. Mendel’s crosses between true-breeding plants with purple flowers produced plants  with only <span style="color:red"><u>purple</u></span> flowers. Crosses between true-breeding plants with white flowers produced plants with only <span style="color:red"><u>white</u></span> flowers.  
+2. Crosses between true-breeding plants with purple flowers and true-breeding plants with white flowers produced plants with only <span style="color:red"><u>purple</u></span> flowers.  
+3. The first–generation purple-flowering plants are called <span style="color:red"><u>hybrid</u></span> plants.  
+4. When Mendel cross-pollinated two hybrid plants, the trait that had disappeared in the first generation always <span style="color:red"><u>reappeared</u></span> in the second generation.  
+5. Mendel analyzed the data from many experiments on seven different <span style="color:red"><u>traits</u></span>. He always noted a 3:1 <span style="color:red"><u>ratio</u></span>; for example, purple flowers grew from hybrid crosses <span style="color:red"><u>three</u></span> times as often as white flowers.
+
+![](./img/l9-1.png)
+
+<div style="width: 60%; margin-left: auto; margin-right: auto">
+![](./img/l9-2.png)
+</div>
+

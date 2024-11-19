@@ -23,7 +23,8 @@ rmd_files: ["index.Rmd",
             "mid-review-scope.Rmd",
             "mid-review-practice-1.Rmd",
             "mid-review-practice-2.Rmd",
-            "ch3.Rmd"]
+            "ch3.Rmd",
+            "l9.Rmd"]
 
 # rmd_files: ["index.Rmd",
 #             "chapter-1.Rmd",

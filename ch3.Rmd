@@ -1,2 +1,5 @@
-# Chapter III: Genetics
+# Chapter III: Genetics  
+
+![](./img/ch3.png)
+
 
