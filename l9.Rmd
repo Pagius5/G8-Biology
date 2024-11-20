@@ -3,17 +3,20 @@
 ### Keywords  
 
 <div style="width: 70%; margin-left: auto; margin-right: auto">
-| 英文              | 中文       |
-| :---------------: | :--------: |
-| Trait             | 性状       |
-| Heredity          | 遗传       |
-| Genetics          | 遗传学     |
-| Self-pollination  | 自花授粉   |
-| Cross-pollination | 异花授粉   |
-| Pistil            | 雌蕊       |
-| Stamen            | 雄蕊       |
-| True-breeding     | 纯种       |
-| Hybrid            | 杂种       |
+| 英文              | 中文         | 解释|
+| :---------------: | :----------: | :-------------------------------: |
+| Trait             | 性状         | characteristic  |
+| Heredity          | 遗传         | the passing of traits from parents to offspring |
+| Genetics          | 遗传学       | the study of how traits are passed on |
+| Self-pollination  | 自花授粉     | a form of pollination when pollen from one plant lands on the pistil of a flower on the same plant  |
+| Cross-pollination | 异花授粉     | a form of pollination when pollen from one plant reaches the pistil of a flower on a different plant  |
+| Pistil            | 雌蕊         | female organs of a flower  |
+| Stigma            | 柱头         | the part of a pistil that receives the pollen during pollination  |
+| Stamen            | 雄蕊         | male organs of a flower  |
+| Anther            | 花药         | the part of a stamen that contains the pollen  |
+| Pollen            | 花粉         | consists of pollen grains, which produce male gametes (sperm cells)  |
+| True-breeding     | 纯种         | organisms whose offspring are the same as the parent  |
+| Hybrid            | 杂种         | organisms from true-breeding parents with different traits  |
 </div>
 
 ### Lesson outline  
@@ -23,7 +26,7 @@
 2. In the 1850s, <span style="color:red"><u>Gregor Mendel</u></span>, an Austrian monk, performed experiments that helped answer questions about how traits are inherited.  
 3. <span style="color:red"><u>Genetics</u></span> is the study of how traits pass from parents to offspring.  
  
-**B. Mendel’s Experimental Methods**
+**B. Mendel’s Experimental Methods**  
 1. Pea plants were ideal for genetic studies because they <span style="color:red"><u>reproduce</u></span> quickly; they have easily observed <span style="color:red"><u>traits</u></span>; and the experimenter can control which pairs of plants <span style="color:red"><u>reproduce</u></span>.  
 2. Mendel controlled which plants <span style="color:red"><u>pollinated</u></span> other plants.  
 &ensp;&ensp;&ensp;&ensp;a. When a(n) <span style="color:red"><u>true-breeding</u></span> plant self-pollinates, it always produces offspring with traits that match the parent.    
